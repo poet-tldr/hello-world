@@ -1,4 +1,6 @@
 # hello-world
 GitHub flow practice (Code: KY)
-dreamer, creator, storyteller
-"hope will return, as many times as it needs to" ~ EXU:Calamity
+
+Poet Thomas / 1998 / dreamer, creator, storyteller
+
+"Hope will return, as many times as it needs to." ~ EXU:Calamity
